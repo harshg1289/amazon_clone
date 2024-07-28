@@ -1,2 +1,2 @@
 # amazon_clone
-this is a amazon clone using css and html
+this is an amazon clone using css and html
